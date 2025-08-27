@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Contact Us</title>
-</head>
-<body>
-    <div style="max-width:400px;margin:40px auto;padding:24px;border:1px solid #ccc;border-radius:8px;background:#f9f9f9;">
-        <h2 style="text-align:center;color:#333;">Contact Us</h2>
-        <p style="margin:12px 0;font-size:16px;">
-            <strong>Email:</strong>
-            <a href="mailto:info@example.com" style="color:#0078d7;text-decoration:none;">info@example.com</a>
-        </p>
-        <p style="margin:12px 0;font-size:16px;">
-            <strong>Phone:</strong>
-            <a href="tel:+1234567890" style="color:#0078d7;text-decoration:none;">+1 (234) 567-890</a>
-        </p>
-        <p style="margin:12px 0;font-size:16px;">
-            <strong>Address:</strong><br>
-            123 Main Street,<br>
-            City, Country 12345
-        </p>
-    </div>
-</body>
-</html>
+On a quiet afternoon, sunlight streamed through the window, casting playful patterns on the wooden floor. The g
+entle hum of distant traffic blended with the soft chirping of birds outside. A cool breeze carried the scen
+t of blooming flowers, filling the room with a sense of calm. Books lay scattered on the table, their pages fl
+uttering as if eager to share their stories. In this peaceful setting, time seemed to slow, inviting moments of r
+eflection and inspiration.
